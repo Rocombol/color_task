@@ -1,0 +1,22 @@
+/*
+body{
+	background: gray;	
+}
+*/
+
+div {
+    border: 1px solid blue;
+	float: left;
+	width: 350px;
+	margin: 10px;
+	height: 500px;
+}
+
+button{
+	width: 100%;
+	height: 100px;
+}
+
+span{
+	padding-left: 10px;
+}
